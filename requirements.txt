@@ -1,0 +1,6 @@
+django
+django-environ
+pillow
+stripe
+django-allauth
+django-tailwind
